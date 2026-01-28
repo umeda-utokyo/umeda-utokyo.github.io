@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Research Overview - Umeda Lab.</title>
+		<title>Group Member - Umeda Lab.</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -26,16 +26,15 @@
 						</nav>
 					</header>
 
-                                        <!-- Menu -->
-                                        <nav id="menu">
-                                                <ul class="links">
-                                                        <li><a href="index.html">ホーム</a></li>
-                                                        <li><a href="ResearchOverview.html">研究概要</a></li>
-                                                        <li><a href="https://ui.adsabs.harvard.edu/search/q=author%3A(%22umeda%2C%20hideyuki%22)&sort=date%20desc%2C%20bibcode%20desc\
-&p_=0">論文</a></li>
-                                                        <li><a href="Members.html">グループメンバー</a></li>
-                                                </ul>
-                                        </nav>
+				<!-- Menu -->
+					<nav id="menu">
+						<ul class="links">
+							<li><a href="index.html">Home</a></li>
+							<li><a href="ResearchOverview.html">Research Overview</a></li>
+							<li><a href="Publications.html">Publications</a></li>
+							<li><a href="Members.html">Members</a></li>
+						</ul>
+					</nav>
 
 				<!-- Banner -->
 				<!-- Note: The "styleN" class below should match that of the header element. -->
@@ -45,10 +44,10 @@
 								<img src="images/pic07.jpg" alt="" />
 							</span>
 							<header class="major">
-								<h1>研究概要</h1>
+								<h1>グループメンバー</h1>
 							</header>
 							<div class="">
-								<p>キーワード:超新星、ガンマ線バースト、極超新星、恒星進化、第一世代星、中性子星、ブラックホール、元素合成</p>
+								<p></p>
 							</div>
 						</div>
 					</section>
@@ -57,72 +56,113 @@
 					<div id="main">
 
 						<!-- One -->
-							<section id="one">
-								<div class="inner">
-									<header class="major">
-										<h2>研究分野</h2>
-									</header>
-									<p>理論天体物理学</p>
-									<header class="major">
-                                                                                <h2>研究内容</h2>
-                                                                        </header>
-                                                                        <p>超新星やガンマ線バーストの爆発機構の解明のため、それらの爆発前の重量星の進化計算と爆発シミュレーションを数値計算によって行っている。またそれらに よる元素合成の計算を行い、金属欠乏星や銀河などの化学組成との比較により、理論の検証と同時に銀河の化学進化の様子や元素の起源を明らかにしていく。</p>
-								</div>
-							</section>
 
 						<!-- Two -->
-							<section id="two" class="spotlights">
-								<section>
-									<a href="" class="image">
-										<img src="images/ResearchOverview/theme1.jpg" alt="" data-position="center center" />
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>研究テーマ 1</h3>
-											</header>
-											<p>Introduction of Research theme 1</p>
-											<ul class="actions">
-												<li><a href="" class="button">Learn more</a></li>
-											</ul>
-										</div>
-									</div>
-								</section>
-								<section>
-									<a href="" class="image">
-										<img src="images/ResearchOverview/theme2.jpg" alt="" data-position="top center" />
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>研究テーマ 2</h3>
-											</header>
-											<p>Introduction of Research Theme 2</p>
-											<ul class="actions">
-												<li><a href="" class="button">Learn more</a></li>
-											</ul>
-										</div>
-									</div>
-								</section>
-								<section>
-									<a href="" class="image">
-										<img src="images/ResearchOverview/theme3.jpg" alt="" data-position="25% 25%" />
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>研究テーマ 3</h3>
-											</header>
-											<p>Introduction of Research theme 3</p>
-											<ul class="actions">
-												<li><a href="" class="button">Learn more</a></li>
-											</ul>
-										</div>
-									</div>
-								</section>
-							</section>
 
-						<!-- Three -->
+						<section id="two" class="spotlights">
+						  <div class="inner">
+						  <section>
+						    <div class="content">
+
+						    <div class="row">
+							<div class="col-4"><span class="image fit"><img src="images/Members/umeda.jpg" alt="" /></span></div>
+							<div class="col-6 col-12-small">
+							  <header class="major">
+							    <h3>梅田 秀之/UMEDA Hideyuki</h3>
+							    </header>
+							  <p>准教授。</p>
+							  <ul class="actions">
+							    <li><a href="https://www.u-tokyo.ac.jp/focus/ja/people/people003321.html" class="button">More about</a></li>
+							  </ul>
+							</div>
+						    </div>
+						      </div>
+						  </section>
+						  </div>
+						</section>
+
+
+						<section id="one">
+
+							  <div class="inner">
+							    <div class="row">
+							      <div class="col-12">
+							      <header class="major">
+								<h3>現在のグループメンバー</h3></br>
+							      </header>
+							      </div>
+							      <div class="col-3"><span class="image fit"><img src="images/pic08.jpg" alt="" /></span></div>
+							      <div class="col-3 col-12-small">
+								<header class="major">
+								  <h3>邹 可翰</h3>
+								</header>
+								<p>修士学生。</p>
+								<ul class="actions">
+								  <li><a href="" class="button">More about</a></li>
+								</ul>
+							      </div>
+							      <div class="col-3"><span class="image fit"><img src="images/Members/yuxin.jpg" alt="" /></span></div>
+							      <div class="col-3 col-12-small">
+								<header class="major">
+								  <h3>呉 雨欣</h3>
+								</header>
+								<p>修士学生。</p>
+								<ul class="actions">
+								  <li><a href="https://yuxin-utokyo.github.io" class="button">More about</a></li>
+							      </ul>
+							      </div>
+							    </div>
+							  </div>
+							</section>
+							
+						<section id="one">
+							  <div class="inner">
+							    <div class="row">
+							      <div class="col-12">
+							      <header class="major">
+								<h3>過去のメンバー</h3></br>
+							      </header>
+							      </div>
+							      <div class="col-3 col-12-small">
+								<header class="major">
+								  <h3>名前</h3>
+								</header>
+								<p>紹介</p>
+								<ul class="actions">
+								  <li><a href="" class="button">More about</a></li>
+								</ul>
+							      </div>
+							      <div class="col-3 col-12-small">
+								<header class="major">
+								  <h3>名前</h3>
+								</header>
+								<p>紹介</p>
+								<ul class="actions">
+								  <li><a href="" class="button">More about</a></li>
+								</ul>
+							      </div>
+							      <div class="col-3 col-12-small">
+								<header class="major">
+								  <h3>名前</h3>
+								</header>
+								<p>紹介</p>
+								<ul class="actions">
+								  <li><a href="" class="button">More about</a></li>
+								</ul>
+							      </div>
+							      <div class="col-3 col-12-small">
+								<header class="major">
+								  <h3>名前</h3>
+								</header>
+								<p>紹介</p>
+								<ul class="actions">
+								  <li><a href="" class="button">More about</a></li>
+							      </ul>
+							      </div>
+							    </div>
+							  </div>
+							</section>
+					</div>
 
 
                                 <!-- Contact -->
@@ -173,7 +213,10 @@
                                                         </section>
                                                 </div>
                                         </section>
-                                <!-- Footer -->
+
+
+
+					                                <!-- Footer -->
                                         <footer id="footer">
                                                 <div class="inner">
 
