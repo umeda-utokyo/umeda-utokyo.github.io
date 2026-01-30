@@ -26,15 +26,16 @@
 						</nav>
 					</header>
 
-				<!-- Menu -->
-					<nav id="menu">
-						<ul class="links">
-							<li><a href="index.html">Home</a></li>
-							<li><a href="ResearchOverview.html">Research Overview</a></li>
-							<li><a href="Publications.html">Publications</a></li>
-							<li><a href="Members.html">Members</a></li>
-						</ul>
-					</nav>
+                                        <!-- Menu -->
+                                        <nav id="menu">
+                                                <ul class="links">
+                                                        <li><a href="index.html">ホーム</a></li>
+                                                        <li><a href="ResearchOverview.html">研究概要</a></li>
+                                                        <li><a href="https://ui.adsabs.harvard.edu/search/q=author%3A(%22umeda%2C%20hideyuki%22)&sort=date%20desc%2C%20bibcode%20desc\
+&p_=0">論文</a></li>
+                                                        <li><a href="Members.html">グループメンバー</a></li>
+                                                </ul>
+                                        </nav>
 
 				<!-- Banner -->
 				<!-- Note: The "styleN" class below should match that of the header element. -->
@@ -66,6 +67,10 @@
                                                                                 <h2>研究内容</h2>
                                                                         </header>
                                                                         <p>超新星やガンマ線バーストの爆発機構の解明のため、それらの爆発前の重量星の進化計算と爆発シミュレーションを数値計算によって行っている。またそれらに よる元素合成の計算を行い、金属欠乏星や銀河などの化学組成との比較により、理論の検証と同時に銀河の化学進化の様子や元素の起源を明らかにしていく。</p>
+											
+									<header class="major">
+									  <h2> 最近の主な研究</h2>
+									</header>
 								</div>
 							</section>
 
@@ -77,12 +82,11 @@
 									</a>
 									<div class="content">
 										<div class="inner">
-											<header class="major">
-												<h3>研究テーマ 1</h3>
-											</header>
-											<p>Introduction of Research theme 1</p>
+											  <h3>星の死に際の “破壊的核燃焼” を明らかに</br>
+											    －超新星残骸から爆発直前の激しい核燃焼過程の観測的証拠を掴む</h3>
+											<p></p>
 											<ul class="actions">
-												<li><a href="" class="button">Learn more</a></li>
+												<li><a href="https://www.astron.s.u-tokyo.ac.jp/research_post/星の死に際の-破壊的核燃焼-を明らかに－超新/" class="button">Learn more</a></li>
 											</ul>
 										</div>
 									</div>
@@ -93,12 +97,10 @@
 									</a>
 									<div class="content">
 										<div class="inner">
-											<header class="major">
-												<h3>研究テーマ 2</h3>
-											</header>
-											<p>Introduction of Research Theme 2</p>
+												<h3>鉄核崩壊型超新星の爆発の可否を判定する</h3>
+										<p></p>
 											<ul class="actions">
-												<li><a href="" class="button">Learn more</a></li>
+												<li><a href="https://yuxin-utokyo.github.io" class="button">Learn more</a></li>
 											</ul>
 										</div>
 									</div>
@@ -109,13 +111,41 @@
 									</a>
 									<div class="content">
 										<div class="inner">
-											<header class="major">
-												<h3>研究テーマ 3</h3>
-											</header>
-											<p>Introduction of Research theme 3</p>
-											<ul class="actions">
-												<li><a href="" class="button">Learn more</a></li>
-											</ul>
+											  <h3>下限質量近くの鉄核崩壊型超新星の性質</h3>
+											<p></p>
+										</div>
+									</div>
+								</section>
+								<section>
+									<a href="" class="image">
+										<img src="images/ResearchOverview/theme4.jpg" alt="" data-position="25% 25%" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											  <h3>初代星形成の宇宙論的シミュレーション</h3>
+											<p></p>
+										</div>
+									</div>
+								</section>
+								<section>
+									<a href="" class="image">
+										<img src="images/ResearchOverview/theme5.jpg" alt="" data-position="25% 25%" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											  <h3>超巨大星(Super massive stars)の進化と爆発</h3>
+											<p></p>
+										</div>
+									</div>
+								</section>
+								<section>
+									<a href="" class="image">
+										<img src="images/ResearchOverview/theme6.jpg" alt="" data-position="25% 25%" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											  <h3>ペア不安定型超新星（自転と金属量の影響）</h3>
+											<p></p>
 										</div>
 									</div>
 								</section>
@@ -195,4 +225,6 @@
 
         </body>
 </html>
+
+
 

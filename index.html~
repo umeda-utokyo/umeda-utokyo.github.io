@@ -21,17 +21,17 @@
 					<header id="header" class="alt">
 						<a href="index.html" class="logo"><strong>梅田秀之</strong> <span>研究室</span></a>
 						<nav>
-							<a href="#menu">Menu</a>
+							<a href="#menu">メニュー</a>
 						</nav>
 					</header>
 
 					<!-- Menu -->
 					<nav id="menu">
 						<ul class="links">
-							<li><a href="index.html">Home</a></li>
-							<li><a href="ResearchOverview.html">Research Overview</a></li>
-							<li><a href="Publications.html">Publications</a></li>
-							<li><a href="Members.html">Members</a></li>
+							<li><a href="index.html">ホーム</a></li>
+							<li><a href="ResearchOverview.html">研究概要</a></li>
+							<li><a href="https://ui.adsabs.harvard.edu/search/q=author%3A(%22umeda%2C%20hideyuki%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0">論文</a></li>
+							<li><a href="Members.html">グループメンバー</a></li>
 						</ul>
 					</nav>
 
@@ -71,7 +71,7 @@
 										<img src="images/pic02.jpg" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="Publications.html" class="link">論文</a></h3>
+										<h3><a href="https://ui.adsabs.harvard.edu/search/q=author%3A(%22umeda%2C%20hideyuki%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0" class="link">論文</a></h3>
 										<p>クリックして、我々の出版論文をご覧ください。</p>
 									</header>
 								</article>
@@ -115,7 +115,9 @@
 					<section id="contact">
 						<div class="inner">
 							<section>
-								<form method="post" action="#">
+							  <form method="post"
+								action="mailto:umeda@astron.s.u-tokyo.ac.jp"
+								enctype="text/plain">
 									<div class="fields">
 										<div class="field half">
 											<label for="name">Name</label>
@@ -141,14 +143,17 @@
 									<div class="contact-method">
 										<span class="icon solid alt fa-envelope"></span>
 										<h3>Email</h3>
-										<a href="#">umeda@astron.s.u-tokyo.ac.jp</a>
+										<a href="mailto:umeda@astron.s.u-tokyo.ac.jp">umeda@astron.s.u-tokyo.ac.jp</a>
 									</div>
 								</section>
 								<section>
 									<div class="contact-method">
 										<span class="icon solid alt fa-home"></span>
 										<h3>Address</h3>
-										<span></span>
+										<span>〒113-0033</br>
+										  文京区本郷7-3-1</br>
+										  東京大学</br>
+										  理1号館11階1105号室</span>
 									</div>
 								</section>
 							</section>

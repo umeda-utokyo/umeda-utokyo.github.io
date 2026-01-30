@@ -26,15 +26,16 @@
 						</nav>
 					</header>
 
-				<!-- Menu -->
-					<nav id="menu">
-						<ul class="links">
-							<li><a href="index.html">Home</a></li>
-							<li><a href="ResearchOverview.html">Research Overview</a></li>
-							<li><a href="Publications.html">Publications</a></li>
-							<li><a href="Members.html">Members</a></li>
-						</ul>
-					</nav>
+                                        <!-- Menu -->
+                                        <nav id="menu">
+                                                <ul class="links">
+                                                        <li><a href="index.html">ホーム</a></li>
+                                                        <li><a href="ResearchOverview.html">研究概要</a></li>
+                                                        <li><a href="https://ui.adsabs.harvard.edu/search/q=author%3A(%22umeda%2C%20hideyuki%22)&sort=date%20desc%2C%20bibcode%20desc\
+&p_=0">論文</a></li>
+                                                        <li><a href="Members.html">グループメンバー</a></li>
+                                                </ul>
+                                        </nav>
 
 				<!-- Banner -->
 				<!-- Note: The "styleN" class below should match that of the header element. -->
